@@ -1,0 +1,35 @@
+body {
+	font-family: sans-serif;
+	background-color: #273248;
+	color: #FC7643;
+}
+
+.button1 {
+	border-color: #FFA364;
+    border-width: 1rem;
+    background-color: #FFA364;
+    font-size: large;
+	margin: 5rem;
+}
+
+.button2 {
+	border-color: #FFA364;
+    border-width: 1rem;
+    background-color: #FFA364;
+    font-size: large;
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+    text-align: center;
+    padding-bottom: 10rem;
+}
+
+input[type="password"] {
+	width: 10rem;
+	padding: 5px;
+	border-radius: 5px;
+	margin-right: 10px;
+    margin-bottom: 1rem;
+}

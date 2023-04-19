@@ -1,0 +1,19 @@
+body {
+	font-family: sans-serif;
+	background-color: #273248;
+	color: #FC7643;
+}
+
+.container {
+	width: 80%;
+    text-align: center;
+    margin: 0% auto 0% auto;
+}
+
+button {
+    margin: 3rem;
+    border-color: #FFA364;
+    border-width: 1rem;
+    background-color: #FFA364;
+    font-size: large;
+}
